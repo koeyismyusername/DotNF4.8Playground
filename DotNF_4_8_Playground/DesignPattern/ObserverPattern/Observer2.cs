@@ -1,7 +1,6 @@
-﻿using DotNF_4_8_Playground.DesignPattern;
-using System;
+﻿using System;
 
-namespace DotNF_4_8_Playground.Tests
+namespace DotNF_4_8_Playground.DesignPattern.ObserverPattern
 {
     public class Observer2 : IMyObserver
     {

@@ -1,4 +1,4 @@
-﻿using DotNF_4_8_Playground.DesignPattern;
+﻿using DotNF_4_8_Playground.DesignPattern.ObserverPattern;
 
 namespace DotNF_4_8_Playground.Tests
 {

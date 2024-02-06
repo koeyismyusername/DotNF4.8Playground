@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DotNF_4_8_Playground.DesignPattern
+namespace DotNF_4_8_Playground.DesignPattern.ObserverPattern
 {
     public class Subject : ISubject
     {
