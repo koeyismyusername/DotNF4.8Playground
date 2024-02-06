@@ -47,6 +47,8 @@
     <Compile Include="DesignPattern\ObserverPattern\ISubject.cs" />
     <Compile Include="TestContext.cs" />
     <Compile Include="Tests\ConsoleWriteLineTest.cs" />
+    <Compile Include="Tests\CSharpEventTest.cs" />
+    <Compile Include="CSharpEvent\EventObject.cs" />
     <Compile Include="Tests\ITestable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
