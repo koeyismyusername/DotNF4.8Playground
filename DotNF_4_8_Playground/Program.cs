@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DotNF_4_8_Playground.Tests;
 
 namespace DotNF_4_8_Playground
 {
@@ -10,6 +6,9 @@ namespace DotNF_4_8_Playground
     {
         static void Main(string[] args)
         {
+            var tester = Tester.Instance;
+
+            tester.TestElapsedTime<ConsoleWriteLineTest>();
         }
     }
 }
