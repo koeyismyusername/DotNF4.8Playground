@@ -43,11 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DesignPattern\IMyObserver.cs" />
+    <Compile Include="DesignPattern\ISubject.cs" />
+    <Compile Include="TestContext.cs" />
     <Compile Include="Tests\ConsoleWriteLineTest.cs" />
     <Compile Include="Tests\ITestable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tester.cs" />
+    <Compile Include="DesignPattern\Observer1.cs" />
+    <Compile Include="DesignPattern\Observer2.cs" />
+    <Compile Include="DesignPattern\Observer3.cs" />
+    <Compile Include="Tests\ObserverPatternTest.cs" />
+    <Compile Include="DesignPattern\Subject.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
