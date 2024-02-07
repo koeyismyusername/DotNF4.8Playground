@@ -10,6 +10,8 @@ namespace DotNF_4_8_Playground.CSharpEvent
 
         public event EventHandler<EventArgs> ThresholdReached;
 
+        public int Sum(int a, int b) => a + b;
+
         protected virtual void OnThresholdReached(EventArgs e)
         {
             var handler = ThresholdReached;
