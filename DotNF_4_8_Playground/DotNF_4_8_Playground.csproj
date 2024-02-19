@@ -62,6 +62,7 @@
     <Compile Include="DesignPattern\ObserverPattern\Observer2.cs" />
     <Compile Include="DesignPattern\ObserverPattern\Observer3.cs" />
     <Compile Include="Tests\MVVMTest.cs" />
+    <Compile Include="Tests\MVVMWithObserver.cs" />
     <Compile Include="Tests\ObserverPatternTest.cs" />
     <Compile Include="DesignPattern\ObserverPattern\Subject.cs" />
     <Compile Include="Utils\JsonUtil.cs" />
