@@ -23,7 +23,10 @@ namespace DotNF_4_8_Playground
 
             Console.WriteLine("테스트를 성공적으로 수행했습니다.");
 
-            if (context.EnableStopWatch) Console.WriteLine($"실행 시간: {stopwatch.ElapsedMilliseconds}ms");
+            if (context.EnableStopWatch)
+            {
+                Console.WriteLine($"실행 시간: {stopwatch.ElapsedMilliseconds}ms");
+            }
         }
     }
 }
