@@ -122,6 +122,7 @@
     <Compile Include="Tests\MVVMTest.cs" />
     <Compile Include="Tests\MVVMWithObserver.cs" />
     <Compile Include="Tests\NRecoPdfGeneratorTest.cs" />
+    <Compile Include="Tests\MVVMWithMyEventHandler.cs" />
     <Compile Include="Tests\ObserverPatternTest.cs" />
     <Compile Include="DesignPattern\ObserverPattern\Subject.cs" />
     <Compile Include="Utils\JsonUtil.cs" />
