@@ -110,6 +110,7 @@
     <Compile Include="Tests\ConsoleWriteLineTest.cs" />
     <Compile Include="Tests\CSharpEventTest.cs" />
     <Compile Include="CSharpEvent\EventObject.cs" />
+    <Compile Include="Tests\EnumTest.cs" />
     <Compile Include="Tests\EventProgrammingTest.cs" />
     <Compile Include="Tests\IronPdfTest.cs" />
     <Compile Include="Tests\ITestable.cs" />
