@@ -129,6 +129,7 @@
     <Compile Include="Tests\ObserverPatternTest.cs" />
     <Compile Include="DesignPattern\ObserverPattern\Subject.cs" />
     <Compile Include="Tests\ParseIntTest.cs" />
+    <Compile Include="Tests\RegexTest.cs" />
     <Compile Include="Utils\JsonUtil.cs" />
   </ItemGroup>
   <ItemGroup>
