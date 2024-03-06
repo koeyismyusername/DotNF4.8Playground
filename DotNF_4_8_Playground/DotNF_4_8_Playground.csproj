@@ -128,6 +128,7 @@
     <Compile Include="Tests\NumberToStringTest.cs" />
     <Compile Include="Tests\ObserverPatternTest.cs" />
     <Compile Include="DesignPattern\ObserverPattern\Subject.cs" />
+    <Compile Include="Tests\ParseIntTest.cs" />
     <Compile Include="Utils\JsonUtil.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -8,7 +8,7 @@ namespace DotNF_4_8_Playground
         {
             var tester = Tester.Instance;
 
-            tester.TestElapsedTime<EnumTest>();
+            tester.TestElapsedTime<ParseIntTest>();
         }
     }
 }
