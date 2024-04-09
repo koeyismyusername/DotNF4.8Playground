@@ -103,6 +103,7 @@
   <ItemGroup>
     <Compile Include="Tests\AsposeHtmlTest.cs" />
     <Compile Include="Tests\AsposePdfTest.cs" />
+    <Compile Include="Tests\ConvertDateTimeTest.cs" />
     <Compile Include="Tests\DelegateUseTest.cs" />
     <Compile Include="DesignPattern\ObserverPattern\IMyObserver.cs" />
     <Compile Include="DesignPattern\ObserverPattern\ISubject.cs" />
@@ -122,13 +123,16 @@
     <Compile Include="DesignPattern\ObserverPattern\Observer3.cs" />
     <Compile Include="Tests\MVVMTest.cs" />
     <Compile Include="Tests\MVVMWithObserver.cs" />
+    <Compile Include="Tests\NameOfTest.cs" />
     <Compile Include="Tests\NRecoPdfGeneratorTest.cs" />
     <Compile Include="Tests\MVVMWithMyEventHandler.cs" />
     <Compile Include="Tests\NullOperatorTest.cs" />
     <Compile Include="Tests\NumberToStringTest.cs" />
     <Compile Include="Tests\ObserverPatternTest.cs" />
     <Compile Include="DesignPattern\ObserverPattern\Subject.cs" />
+    <Compile Include="Tests\OrderNumTest.cs" />
     <Compile Include="Tests\ParseIntTest.cs" />
+    <Compile Include="Tests\RefTest.cs" />
     <Compile Include="Tests\RegexTest.cs" />
     <Compile Include="Utils\JsonUtil.cs" />
   </ItemGroup>
