@@ -23,6 +23,16 @@ namespace DotNF_4_8_Playground.Tests
             {
                 Console.WriteLine(item.Value);
             }
+
+            Console.WriteLine(data.Value);
+            ChangeValue(data);
+
+            Console.WriteLine(data.Value);
+        }
+
+        private void ChangeValue(Data data)
+        {
+            data.Value = -1;
         }
     }
 
